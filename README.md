@@ -6,4 +6,4 @@ The data is sent to unity  (see UDPReceive.cs).
 
 # HOW TO RUN
 Run 3DHandTracking.py first then run unity scene.
-Change local UDP port in UDPReceive.cs
+#Change local UDP port in UDPReceive.cs
